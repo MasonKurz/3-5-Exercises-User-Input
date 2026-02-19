@@ -1,3 +1,3 @@
 # 3-5-Exercises-User-Input
 
-This lesson taught me about how to import elements from Java (such as the scanner and 
+This lesson taught me about how to import elements from Java (such as the scanner and JOptionPane) and use them. I learned how to create a JOptionPlane and print the user input. Furthermore, I learned how to parse elements from the user input, that way we could extract int's or other elements. We also experimented with adding operations (addition) to the int's extracted from the input dialogue. The other utility I learned about was the scanner. I learned how to create a new scanner and how to use it to extract int's from the user input. We also played with adding dialogue and operators to the int's to create a cool system that could do addition for the user.
